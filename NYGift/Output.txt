@@ -1,0 +1,24 @@
+Gift weight:
+650 gr
+
+Which includes:
+Грибочки: 150.0
+Аленка: 200.0
+К чаю: 300.0
+
+Sweets with this price: К чаю
+Sweets with this price are not found
+
+NY Gift from txt file:
+Candy: Мишки на поляне, 200.0 гр, 17.0 руб, Шоколадная конфета, производитель Спартак
+Biscuits: Клубничное, 250.0 гр, 10.0 руб, 30 шт
+Zephyr: Яблочный , 200.0 гр, 12.0 руб, Зефир на пектине, 5 шт
+
+Start parsing xml file
+
+NY Gift from xml file:
+'Минчанка': 200, 17
+'Шахматное': 100, 15.6
+'Бело-розовый': 250, 21
+
+NY Gift from DB:

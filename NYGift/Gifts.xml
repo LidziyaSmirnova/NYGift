@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<gift>
+        <Sweet id="1">
+            <name>Минчанка</name>
+            <weight>200</weight>
+            <price>17</price>
+	    </Sweet>
+        <Sweet id="2">
+            <name>Шахматное</name>
+            <weight>100</weight>
+            <price>15.6</price>
+        </Sweet>
+        <Sweet id="3">
+            <name>Бело-розовый</name>
+            <weight>250</weight>
+            <price>21</price>
+        </Sweet>
+</gift>
