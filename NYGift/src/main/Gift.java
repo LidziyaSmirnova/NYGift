@@ -65,4 +65,3 @@ nygift.add(new Biscuits("К чаю", 300, 11.7, 10));
 nygift.add(new Zephyr("Грибочки", 150, 22.8, "Зефир в шоколаде", 6));
 		}
 }
-
